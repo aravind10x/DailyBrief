@@ -128,10 +128,6 @@ flowchart LR
 
 More detail lives in [docs/public/architecture.md](docs/public/architecture.md).
 
-## Notes
-
-- Screenshot capture notes live in [docs/public/demo-kit.md](docs/public/demo-kit.md).
-- Public release notes live in [docs/public/publish-checklist.md](docs/public/publish-checklist.md).
 
 ## Roadmap
 
